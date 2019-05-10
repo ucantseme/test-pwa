@@ -1,0 +1,22 @@
+{
+  "name": "mmpwa",
+  "version": "1.0.0",
+  "description": "Minimal Multi-page PWA",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huxpro/mmpwa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huxpro/mmpwa/issues"
+  },
+  "homepage": "https://github.com/Huxpro/mmpwa#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
